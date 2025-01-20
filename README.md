@@ -1,4 +1,5 @@
 <img src="https://github.com/rediskazavr/TUI-OS/blob/main/icon.jpg" width="150">
+
 # TUI-OS
 TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the basis of WSL linux idea
 
