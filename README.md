@@ -13,3 +13,32 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 * [Team project](#Team-project)
 * [Preview](#Preview)
 * [Sources](#Sources)
+
+
+
+## Technologies
+fail
+
+## Quick Start
+fail
+
+## Docs
+fail
+
+## FAQ
+fail
+
+## To do 
+fail
+
+## Contributing
+fail
+
+## Team project
+fail
+
+## Preview
+fail
+
+## Sources
+fail
