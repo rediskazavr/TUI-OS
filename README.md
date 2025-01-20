@@ -1,4 +1,4 @@
-![icon](https://github.com/rediskazavr/TUI-OS/blob/main/icon.jpg)
+![icon](https://github.com/rediskazavr/TUI-OS/blob/main/icon.jpg?w=250)
 # TUI-OS
 TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the basis of WSL linux idea
 
