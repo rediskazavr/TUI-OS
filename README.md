@@ -42,7 +42,7 @@ fail
 fail
 
 ## Team project
-fail
+* Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## Preview
 fail
