@@ -31,7 +31,7 @@ cd emu
 ./loadx
 ```
 
-## Docs
+## 📃 Docs
 Code documentation:
 * 🇬🇧EN:
 * 🇷🇺RU:
