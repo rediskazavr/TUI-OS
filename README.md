@@ -19,7 +19,7 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 ## 💽 Technologies
 [![Technologies](https://skillicons.dev/icons?i=bash,c,rust,git,github,linux,ubuntu,md,ass=&theme=dark)](https://skillicons.dev)
 
-## Quick Start (Debian-like system only)
+## 📎 Quick Start (Debian-like system only)
 In development!!!
 ```
 git clone https://github.com/rediskazavr/TUI-OS 
