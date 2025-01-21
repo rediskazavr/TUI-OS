@@ -23,10 +23,17 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 fail
 
 ## Docs
-fail
+Code documentation:
+EN:
+🇷RU:
+
+Manual for working with the emulator:
+EN:
+🇷RU:
 
 ## FAQ
-fail
+EN:
+🇷RU:
 
 ## To do 
 fail
