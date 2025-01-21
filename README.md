@@ -31,6 +31,10 @@ Manual for working with the emulator:
 * 🇬🇧EN:
 * 🇷🇺RU:
 
+System work plan:
+* 🇬🇧EN:
+* 🇷🇺RU:
+
 ## FAQ
 * 🇬🇧EN:
 * 🇷🇺RU:
