@@ -48,4 +48,4 @@ fail
 fail
 
 ## Sources
-> The project carries a pet-project that I would like to make public. The idea was taken with the creation of its own OS, similar to WSL Linux using the programming languages C, RUST and the ![Rataui library](https://github.com/ratatui/ratatui) for TUI (Terminal User Interface)
+> The project carries a pet-project that I would like to make public. The idea was taken with the creation of its own OS, similar to WSL Linux using the programming languages C, RUST and the [Rataui library](https://github.com/ratatui/ratatui) for TUI (Terminal User Interface)
