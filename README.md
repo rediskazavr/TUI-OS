@@ -49,7 +49,8 @@ If you want to join the development or just be part of the project. We have a co
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## Preview
-fail
+<img src="" width=150>
+<img src="" width=150>
 
 ## Sources
 > The project carries a pet-project that I would like to make public. The idea was taken with the creation of its own OS, similar to WSL Linux using the programming languages C, RUST and the [Rataui library](https://github.com/ratatui/ratatui) for TUI (Terminal User Interface)
