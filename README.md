@@ -49,8 +49,8 @@ If you want to join the development or just be part of the project. We have a co
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## Preview
-<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme.jpg" width=150>
-<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme2.jpg" width=150>
+<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme.jpg" width=512>
+<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme2.jpg" width=512>
 
 ## Sources
 > The project carries a pet-project that I would like to make public. The idea was taken with the creation of its own OS, similar to WSL Linux using the programming languages C, RUST and the [Rataui library](https://github.com/ratatui/ratatui) for TUI (Terminal User Interface)
