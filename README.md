@@ -24,15 +24,15 @@ fail
 
 ## Docs
 Code documentation:
-* EN:
-* RU:
+* 🇬🇧EN:
+* 🇷🇺RU:
 
 Manual for working with the emulator:
-* EN:
-* RU:
+* 🇬🇧EN:
+* 🇷🇺RU:
 
 ## FAQ
-* EN:
+* 🇬🇧EN:
 * 🇷🇺RU:
 
 ## To do 
