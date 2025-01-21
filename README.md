@@ -49,14 +49,14 @@ Before asking a question, try to find the answer here:
 * 🇷🇺RU: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_ru.md)
 
 ## To do 
-- [] Creating an installation environment
-- [] Creating a directory tree
-- [] Creating an emulator bootloader (loadx)
-- [] Creating a kernel (kernelx)
-- [] Creating a software package for the emulator (pkgx)
-- [] Write all the documentation
-- [] Website creation
-- [] Supporting the project
+- [ ] Creating an installation environment
+- [ ] Creating a directory tree
+- [ ] Creating an emulator bootloader (loadx)
+- [ ] Creating a kernel (kernelx)
+- [ ] Creating a software package for the emulator (pkgx)
+- [ ] Write all the documentation
+- [ ] Website creation
+- [ ] Supporting the project
 
 ## Contributing
 If you want to join the development or just be part of the project. We have a community in [Discord]()
