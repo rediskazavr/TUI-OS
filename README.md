@@ -33,7 +33,7 @@ Manual for working with the emulator:
 
 ## FAQ
 * EN:
-* RU:
+* 🇷🇺RU:
 
 ## To do 
 fail
