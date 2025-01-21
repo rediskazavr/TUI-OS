@@ -36,8 +36,8 @@ System work plan:
 * 🇷🇺RU:
 
 ## FAQ
-* 🇬🇧EN:
-* 🇷🇺RU:
+* 🇬🇧EN: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_en.md)
+* 🇷🇺RU: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_ru.md)
 
 ## To do 
 fail
