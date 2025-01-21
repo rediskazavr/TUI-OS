@@ -28,7 +28,6 @@ chmod u+x install_dependencies.sh
 ./build.sh
 cd emu 
 ./loadx
-
 ```
 
 ## Docs
