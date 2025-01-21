@@ -62,7 +62,7 @@ Before asking a question, try to find the answer here:
 ## Contributing
 If you want to join the development or just be part of the project. We have a community in [Discord]()
 
-## Team project
+## 👋 Team project
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## 📷 Preview
