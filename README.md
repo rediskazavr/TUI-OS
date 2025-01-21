@@ -65,7 +65,7 @@ If you want to join the development or just be part of the project. We have a co
 ## Team project
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
-## Preview
+## 📷 Preview
 <img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme.jpg" width=512>
 <img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme2.jpg" width=512>
 
