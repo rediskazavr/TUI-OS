@@ -36,6 +36,7 @@ System work plan:
 * 🇷🇺RU:
 
 ## FAQ
+Before asking a question, try to find the answer here:
 * 🇬🇧EN: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_en.md)
 * 🇷🇺RU: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_ru.md)
 
