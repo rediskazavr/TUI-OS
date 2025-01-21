@@ -49,7 +49,7 @@ Before asking a question, try to find the answer here:
 * 🇷🇺RU: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_ru.md)
 
 ## To do 
-[x] Create Repository
+- [x] Create Repository
 
 ## Contributing
 If you want to join the development or just be part of the project. We have a community in [Discord]()
