@@ -5,7 +5,7 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 
 ## Content
 * [Technologies](#Technologies)
-* [Quick Start](#Quick-Start)
+* [Quick Start](#Quick-Start-(Debian-like-system-only))
 * [Docs](#Docs)
 * [FAQ](#FAQ)
 * [To do](#To-do)
