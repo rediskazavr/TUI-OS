@@ -53,7 +53,7 @@ Before asking a question, try to find the answer here:
 ## 📝 To do 
 - [ ] Creating an installation environment
 - [ ] Creating a directory tree
-- [ ] Creating an emulator bootloader (loadx)
+- [x] Creating an emulator bootloader (loadx)
 - [ ] Creating a kernel (kernelx)
 - [ ] Creating a software package for the emulator (pkgx)
 - [ ] Write all the documentation
