@@ -26,6 +26,7 @@ git clone https://github.com/rediskazavr/TUI-OS
 cd TUI-OS
 chmod u+x install_dependencies.sh
 ./install_dependencies.sh
+chmod u+x build.sh
 ./build.sh
 cd emu 
 ./loadx
@@ -41,8 +42,8 @@ Manual for working with the emulator:
 * 🇷🇺RU:
 
 System work plan:
-* 🇬🇧EN:
-* 🇷🇺RU:
+* 🇬🇧EN: [System Work Plan](https://github.com/rediskazavr/TUI-OS/blob/main/docs/SysWorkPlan_en.md)
+* 🇷🇺RU: [System Work Plan](https://github.com/rediskazavr/TUI-OS/blob/main/docs/SysWorkPlan_ru.md)
 
 ## ❓ FAQ
 Before asking a question, try to find the answer here:
