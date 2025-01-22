@@ -1,2 +1,3 @@
 #!/bin/bash
-makefile
+sudo rm -r ./emu/loadx.emu
+make
