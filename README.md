@@ -52,7 +52,7 @@ Before asking a question, try to find the answer here:
 
 ## 📝 To do 
 - [ ] Creating an installation environment
-- [ ] Creating a directory tree
+- [x] Creating a directory tree
 - [x] Creating an emulator bootloader (loadx)
 - [ ] Creating a Graphic Engine (grphx)
 - [ ] Creating a kernel (kernelx)
