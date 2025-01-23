@@ -25,11 +25,12 @@ Copyleft 2025. TUI-OS
 #include <sys/types.h>
 #include <sys/stat.h>
 
-#define KERNELX_FILE "./kernelx"
+#define KERNELX_FILE "./kernelx.emu"
+#define GRPHX_FILE "./bin/grphx.emu"
 
-int file_exists(const char* filename) {
-    struct stat buffer;
-    return (stat(filename, &buffer) == 0);
+int file_exists(const char* filename1, const char* filename2) {
+    struct stat buffer1, buffer2;
+    return (stat(filename1, &buffer1) == 0 && stat(filename2, &buffer2) == 0);
 }
 
 void print_colored(const char *message, const char *color_code) {
@@ -40,22 +41,20 @@ int main() {
 
     int delay = 1000000;
     
-
-    //TODO: The line "Checking Files" is not displayed correctly
-    const char *messages[] = {"a loadx", "github.com/rediskazavr/TUI-OS", "loadx=ver:0.0.1", "Checking files"};
+    const char *messages[] = {"a loadx", "github.com/rediskazavr/TUI-OS", "loadx=ver:0.0.1"};
     const char *colors[] = {"\033[92", "\033[93m", "\033[32m", "\033[93"};
     
-    for (int i = 0; i < 4; ++i) {
+    for (int i = 0; i < 3; ++i) {
         print_colored(messages[i], colors[i]);
         usleep(delay);
     }
     
-    if (file_exists(KERNELX_FILE)) {
-        
+    if (file_exists(KERNELX_FILE, GRPHX_FILE)) {
+        printf("\033[32mSuccess! Loading the kernel\033[0m\n");
         system("./kernelx");
     } else {
       
-        print_colored("Sys-Error $!0.1 - not found kernelx", "\033[31m");
+        print_colored("Sys-Error $!0.1 - Error loading emulator. check for files", "\033[31m");
     }
     
     return 0;
