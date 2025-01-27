@@ -1,8 +1,9 @@
-// main.c
+
 #include <stdio.h>
 #include <string.h>
 #include "exit.h"
 #include "clear.h"
+#include "./ranim/ranim.h"
 
 void execute_command(char *command) {
     if (strcmp(command, "exit") == 0) {

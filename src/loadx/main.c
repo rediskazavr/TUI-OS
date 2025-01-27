@@ -24,6 +24,7 @@ Copyleft 2025. TUI-OS
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
+#include "./ranim/ranim.h"
 
 #define KERNELX_FILE "./kernelx.emu"
 #define GRPHX_FILE "./bin/grphx.emu"
@@ -50,7 +51,7 @@ int main() {
     }
     
     if (file_exists(KERNELX_FILE, GRPHX_FILE)) {
-        printf("\033[32mSuccess! Loading the kernel\033[0m\n");
+        ranimln("Success! Loading the kernel");
         system("./kernelx");
     } else {
       
