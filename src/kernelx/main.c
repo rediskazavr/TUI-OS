@@ -3,13 +3,16 @@
 #include <string.h>
 #include "exit.h"
 #include "clear.h"
-#include "./ranim/ranim.h"
+#include "sys.h"
 
 void execute_command(char *command) {
     if (strcmp(command, "exit") == 0) {
         exit_program();
     } else if (strcmp(command, "clear") == 0) {
         clear(); 
+    } else if(strcmp(command, "sys") == 0){
+      sys();
+
     } else {
         printf("Command not found: %s\n", command);
     }

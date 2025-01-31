@@ -3,7 +3,8 @@ LOADX = ./emu/loadx.emu
 KERNELX = ./emu/kernelx.emu
 
 LOADX_SRC = \
-						./src/loadx/main.c
+						./src/loadx/main.c \
+						./src/loadx/ranim/ranim.c
 
 KERNELX_SRC = \
 							./src/kernelx/main.c \
@@ -12,5 +13,5 @@ KERNELX_SRC = \
 
 
 $(TARGET):
-		gcc $(LOADX_SRC) -o $(LOADX)
+		gcc $(LOADX_SRC) -o $(LOADX) -lm
 		gcc $(KERNELX) -o $(KERNELX)
