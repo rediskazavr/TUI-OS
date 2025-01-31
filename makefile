@@ -9,7 +9,8 @@ LOADX_SRC = \
 KERNELX_SRC = \
 							./src/kernelx/main.c \
 							./src/kernelx/clear.c \
-							./src/kernelx/exit.c
+							./src/kernelx/exit.c \
+							./src/kernelx/sys.c
 
 
 $(TARGET):
