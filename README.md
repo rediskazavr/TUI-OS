@@ -58,8 +58,6 @@ Before asking a question, try to find the answer here:
 - [x] Creating a kernel (kernelx)
 - [x] Creating a software package for the emulator (pkgx)
 - [ ] Write all the documentation
-- [ ] Website creation
-- [ ] Supporting the project
 - [ ] Porting to all possible Linux distributions
 
 ## 📜 Team project
