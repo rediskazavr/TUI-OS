@@ -23,12 +23,12 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 ```
 git clone https://github.com/rediskazavr/TUI-OS 
 cd TUI-OS
-chmod u+x install_dependencies.sh
-./install_dependencies.sh
-chmod u+x build.sh
-./build.sh
+chmod u+x install_dependencies.sh 
+chmod u+x build.sh 
+./build.sh 
 cd emu 
-./loadx
+chmod u+x start.sh 
+./start.sh
 ```
 
 ## 📃 Docs
@@ -55,7 +55,7 @@ Before asking a question, try to find the answer here:
 - [x] Creating an emulator bootloader (loadx)
 - [ ] Creating a Graphic Engine (grphx)
 - [x] Creating a kernel (kernelx)
-- [x] Creating a software package for the emulator (pkgx)
+- [ ] Creating a software package for the emulator (pkgx)
 - [ ] Write all the documentation
 - [ ] Website creation
 - [ ] Supporting the project
