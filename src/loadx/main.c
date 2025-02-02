@@ -50,13 +50,15 @@ int main() {
         usleep(delay);
     }
     
+
+    //TODO Correct the error. After checking the files, the program does not exit and does not launch kernelx.emu
     if (file_exists(KERNELX_FILE, GRPHX_FILE)) {
         ranimln("Success! Loading the kernel");
-        system("./kernelx");
+        system("./kernelx.emu");
+        return 0;
     } else {
       
         print_colored("Sys-Error $!0.1 - Error loading emulator. check for files", "\033[31m");
+        return 1;
     }
-    
-    return 0;
 }

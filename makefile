@@ -22,5 +22,5 @@ CALC_SRC = \
 $(TARGET):
 		gcc $(LOADX_SRC) -o $(LOADX) -lm
 		gcc $(KERNELX_SRC) -o $(KERNELX)
-		rustc $(GRPHX_SRC) -o $()
-		gcc $(CALC) -o $(CALC_SRC)
+		rustc $(GRPHX_SRC) -o $(GRPHX)
+		gcc $(CALC_SRC) -o $(CALC)
