@@ -33,8 +33,8 @@ chmod u+x start.sh
 
 ## 📃 Docs
 Code documentation:
-* 🇬🇧EN:
-* 🇷🇺RU:
+* 🇬🇧EN: [Code Documentation](https://github.com/rediskazavr/TUI-OS/wiki/EN%E2%80%90CODE%E2%80%90DOCUMENTATION)
+* 🇷🇺RU: [Code Documentation](https://github.com/rediskazavr/TUI-OS/wiki/RU%E2%80%90CODE%E2%80%90DOCUMENTATION)
 
 Manual for working with the emulator:
 * 🇬🇧EN:
