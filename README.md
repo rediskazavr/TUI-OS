@@ -50,7 +50,6 @@ Before asking a question, try to find the answer here:
 * 🇷🇺RU: [FAQ](https://github.com/rediskazavr/TUI-OS/blob/main/docs/FAQ_ru.md)
 
 ## 📝 To do 
-- [ ] Creating an installation environment
 - [x] Creating a directory tree
 - [x] Creating an emulator bootloader (loadx)
 - [ ] Creating a Graphic Engine (grphx)
