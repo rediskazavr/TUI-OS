@@ -55,7 +55,7 @@ Before asking a question, try to find the answer here:
 - [x] Creating an emulator bootloader (loadx)
 - [ ] Creating a Graphic Engine (grphx)
 - [x] Creating a kernel (kernelx)
-- [ ] Creating a software package for the emulator (pkgx)
+- [x] Creating a software package for the emulator (pkgx)
 - [ ] Write all the documentation
 - [ ] Website creation
 - [ ] Supporting the project
