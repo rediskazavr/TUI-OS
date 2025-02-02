@@ -9,7 +9,6 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 * [Docs](#Docs)
 * [FAQ](#FAQ)
 * [To do](#To-do)
-* [Contributing](#Contributing)
 * [Team project](#Team-project)
 * [Preview](#Preview)
 * [Sources](#Sources)
@@ -61,8 +60,6 @@ Before asking a question, try to find the answer here:
 - [ ] Website creation
 - [ ] Supporting the project
 - [ ] Porting to all possible Linux distributions
-## 👋 Contributing
-If you want to join the development or just be part of the project. We have a community in [Discord]()
 
 ## 📜 Team project
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
