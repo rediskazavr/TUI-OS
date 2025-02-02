@@ -20,7 +20,7 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 
 ## 📎 Quick Start (Debian-like system only)
 🚧 In development!!!
-> Before installing/building the project, make sure you have: gcc, rusc, make installed
+> Before installing/building the project, make sure you have: gcc, rustc, make installed
 ```
 git clone https://github.com/rediskazavr/TUI-OS 
 cd TUI-OS
