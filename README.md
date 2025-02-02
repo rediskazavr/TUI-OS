@@ -24,7 +24,6 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 ```
 git clone https://github.com/rediskazavr/TUI-OS 
 cd TUI-OS
-chmod u+x install_dependencies.sh 
 chmod u+x build.sh 
 ./build.sh 
 cd emu 
