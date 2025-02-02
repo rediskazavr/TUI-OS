@@ -37,8 +37,8 @@ Code documentation:
 * 🇷🇺RU: [Code Documentation](https://github.com/rediskazavr/TUI-OS/wiki/RU%E2%80%90CODE%E2%80%90DOCUMENTATION)
 
 Manual for working with the emulator:
-* 🇬🇧EN:
-* 🇷🇺RU:
+* 🇬🇧EN: [Manual for working with the emulator](https://github.com/rediskazavr/TUI-OS/wiki/EN%E2%80%90MANUAL%E2%80%90FOR%E2%80%90WORKING%E2%80%90WITH%E2%80%90THE%E2%80%90EMULATOR)
+* 🇷🇺RU: [Manual for working with the emulator](https://github.com/rediskazavr/TUI-OS/wiki/RU%E2%80%90MANUAL%E2%80%90FOR%E2%80%90WORKING%E2%80%90WITH%E2%80%90THE%E2%80%90EMULATOR)
 
 System work plan:
 * 🇬🇧EN: [System Work Plan](https://github.com/rediskazavr/TUI-OS/blob/main/docs/SysWorkPlan_en.md)
