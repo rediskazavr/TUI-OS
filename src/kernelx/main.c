@@ -11,7 +11,7 @@ void execute_command(char *command) {
     } else if (strcmp(command, "clear") == 0) {
         clear(); 
     } else if(strcmp(command, "sys") == 0){
-      sys();
+        sys();
 
     } else {
         printf("Command not found: %s\n", command);
