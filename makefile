@@ -12,12 +12,13 @@ KERNELX_SRC = \
 							./src/kernelx/main.c \
 							./src/kernelx/clear.c \
 							./src/kernelx/exit.c \
-							./src/kernelx/sys.c
+							./src/kernelx/sys.c \
+							./src/kernelx/program.c
 GRPHX_SRC = \
 						./src/grphx/main.rs
 
 CALC_SRC = \
-					 ./src/calc/main.c
+					./src/calc/main.c
 
 $(TARGET):
 		gcc $(LOADX_SRC) -o $(LOADX) -lm

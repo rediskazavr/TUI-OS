@@ -1,19 +1,22 @@
-
 #include <stdio.h>
 #include <string.h>
 #include "exit.h"
 #include "clear.h"
 #include "sys.h"
+#include "program.h"
 
 void execute_command(char *command) {
-    if (strcmp(command, "exit") == 0) {
+    if (strcmp(command, "#exit") == 0) {
         exit_program();
-    } else if (strcmp(command, "clear") == 0) {
+    } else if (strcmp(command, "#clear") == 0) {
         clear(); 
-    } else if(strcmp(command, "sys") == 0){
+    } else if(strcmp(command, "#sys") == 0){
         sys();
-
-    } else {
+    } else if(strcmp(command, "#calc") == 0){
+        calc();
+    } else if(strcmp(command, "#grphx") == 0){
+        grphx();
+    }else {
         printf("Command not found: %s\n", command);
     }
 }
