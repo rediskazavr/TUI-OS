@@ -1,5 +1,10 @@
 <img src="https://github.com/rediskazavr/TUI-OS/blob/main/icon.jpg" width="150">
 
+[![GitHub Stars](https://img.shields.io/github/stars/rediskazavr/TUI-OS.svg?style=social&label=Star)](https://github.com/rediskazavr/TUI-OS)
+[![GitHub Forks](https://img.shields.io/github/forks/rediskazavr/TUI-OS.svg?style=social&label=Fork)](https://github.com/rediskazavr/TUI-OS)
+[![GitHub Issues](https://img.shields.io/github/issues/rediskazavr/TUI-OS.svg)](https://github.com/rediskazavr/TUI-OS/issues)
+[![License](https://img.shields.io/github/license/rediskazavr/TUI-OS.svg)](https://github.com/rediskazavr/TUI-OS/blob/master/LICENSE)
+
 # TUI-OS
 TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the basis of WSL linux idea
 
@@ -12,8 +17,6 @@ TUI-OS - Operating system emulator in Linux terminal. Pet-Project made on the ba
 * [Team project](#Team-project)
 * [Preview](#Preview)
 * [Sources](#Sources)
-
-
 
 ## 💽 Technologies
 [![Technologies](https://skillicons.dev/icons?i=bash,c,rust,git,github,linux,ubuntu,md,ass=&theme=dark)](https://skillicons.dev)
